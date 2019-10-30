@@ -3,7 +3,7 @@ package framework;
 public class Veeresham {
 	
 	public static void main(String args[]) {
-		System.out.println("Nenu veeeresham");
+		System.out.println("Nen veeeresham");
 	}
 
 }
