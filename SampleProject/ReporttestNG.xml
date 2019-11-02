@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Report suit" parallel="false">
+  <test thread-count="5" name="Report Test">
+    <classes>
+      <class name="testNG.Qthout1"/>
+      <class name="testNG.Test1"/>
+      <class name="testNG2.TestOne"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
